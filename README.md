@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @milymilosz252
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning python.
